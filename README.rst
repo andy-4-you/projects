@@ -22,10 +22,6 @@ everyone can use it.
 Samples of invoice/bill templates
 -----------------------
 
-Here is a sample of a invoice/bill template issued
-by TDS Telecommunications (`download 
-PDF <https://ecmdesstorage.blob.core.windows.net/test/TDS-16022303-00_Cat.pdf?st=2019-11-07T10%3A45%3A45Z&se=2020-10-27T10%3A45%3A00Z&sp=rl&sv=2018-03-28&sr=c&sig=69%2FMb8M51l64UdSaTuZgNL7kaA48mdIG6vv8EVOSNyU%3D>`__):
-
 ::
 
     issuer: TDS Telecommunications LLC
